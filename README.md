@@ -45,7 +45,7 @@ Este repositorio contiene dos carpetas:
 ## Librerias / Framewors
 - Python
 - Pyspark
-- Sklearn
+- Scikit-learn
 - Numpy
 - Pandas
 - Matplotlib
