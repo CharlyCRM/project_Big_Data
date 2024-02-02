@@ -1,4 +1,4 @@
-# Projecto Final Master Big Data: Analisis de Datos y Machine learning
+# Projecto Final Master Big Data: Analisis de Datos y Machine learning 📈🧑‍💻
 
 Este documento describe el trabajo realizado en el proyecto final del curso de **BigData: Analisis de Datos y Machine Learning**.
 El projecto simula el trabajo realizado por un científico de datos en una empresa de viajes llamada Tokio School Viajes.
