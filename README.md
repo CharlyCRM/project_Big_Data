@@ -1,7 +1,7 @@
-# Projecto Final Master Big Data: Analisis de Datos y Machine learning 📈🧑‍💻
+# Proyecto Final Master Big Data: Analisis de Datos y Machine learning 📈🧑‍💻
 
 Este documento describe el trabajo realizado en el proyecto final del curso de **BigData: Analisis de Datos y Machine Learning**.
-El projecto simula el trabajo realizado por un científico de datos en una empresa de viajes llamada Tokio School Viajes.
+El proyecto simula el trabajo realizado por un científico de datos en una empresa de viajes llamada Tokio School Viajes.
 
 ## Contexto del Ejercicio
 Hemos conseguido nuestro primer trabajado como analista Big Data. has sido contratado por la empresa Tokio School Viajes.
@@ -11,7 +11,7 @@ Con estos datos realizaremos varias tareas que nos permitirán el análisis y to
 En Tokio School Viajes, sabemos que es tu primer empleo, por lo que hemos creado ya usa serie de tareas para que comiences a realizar
 los análsis pertienens. Algunas de las tareas tiene relación con tareas anteriores y otras no.
 
-## Estructura del Projecto
+## Estructura del Proyecto
 Este repositorio contiene los siguientes ficheros PDF:
 - **01 Configuración:**
   
@@ -22,7 +22,7 @@ Este repositorio contiene los siguientes ficheros PDF:
 
   Este documento contiene el código fuente empleado para la resolución de las tareas solicitadas en Cassandra y PySpark.
     
-- **03 Cienctífico:**
+- **03 Científico:**
 
     Este documento contiene los resultados y conclusiones correspondientes a las tareas realizadas.
   
@@ -30,15 +30,19 @@ Este repositorio contiene los siguientes ficheros PDF:
 
   Este documento contiene una presentación utilizando técnicas de storytelling con el objetivo de presentar los resultados de cada unas de las tareas anteriores.
 
+- **Big Data Proyecto_Final:**
+
+  Este documento, entregado por el centro de estúdios, contiene los reqerimientos que deben realizarse así como las pautas a seguir para una correcta finalización del proyecto.
+
 ## Estructura del Repositorio
 Este repositorio contiene dos carpetas:
 - **data:**
-  Contiene el fichero csv utilizado durante el ejercicio
+  Contiene el fichero csv utilizado durante el ejercicio.
 
 - **notebook:**
-  Contiene tres cuadernos de Jupyter Notebook con el código utilizado para resolver el ejercicio
+  Contiene tres cuadernos de Jupyter Notebook con el código utilizado para resolver el ejercicio.
 
-## Librerias / Framewors utilizados
+## Librerias / Framewors
 - Python
 - Pyspark
 - Sklearn
