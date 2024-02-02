@@ -39,10 +39,10 @@ Este repositorio contiene dos carpetas:
   Contiene tres cuadernos de Jupyter Notebook con el código utilizado para resolver el ejercicio
 
 ## Librerias / Framewors utilizados
-- python
-- pyspark
-- sklearn
-- numpy
-- pandas
-- matplotlib
-- seaborn
+- Python
+- Pyspark
+- Sklearn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
