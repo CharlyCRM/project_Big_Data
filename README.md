@@ -30,4 +30,19 @@ Este repositorio contiene los siguientes ficheros PDF:
 
   Este documento contiene una presentación utilizando técnicas de storytelling con el objetivo de presentar los resultados de cada unas de las tareas anteriores.
 
+## Estructura del Repositorio
+Este repositorio contiene dos carpetas:
+- **data:**
+  Contiene el fichero csv utilizado durante el ejercicio
 
+- **notebook:**
+  Contiene tres cuadernos de Jupyter Notebook con el código utilizado para resolver el ejercicio
+
+## Librerias / Framewors utilizados
+- python
+- pyspark
+- sklearn
+- numpy
+- pandas
+- matplotlib
+- seaborn
